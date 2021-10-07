@@ -13,7 +13,7 @@ sections:
       ongkir untuk area JABODETABEK, Bantal Memory di produksi dengan bahan dan
       jaminan kualitas terbaik
     actions:
-      - label: Let's talk
+      - label: Order sekarang
         url: /contact
         style: button
   - section_id: latest-projects
