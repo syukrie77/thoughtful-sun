@@ -3,7 +3,7 @@ title: Bantal Kesehatan Memory
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: images/2-a2e1cb9c.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
