@@ -4,9 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: >-
-      Anda ingin tidurnya berkualitas sekaligus meningkatkan imunitas gunakan
-      BANTAL KESEHATAN MEMORY
+    title: 'Mau tidurnya berkualitas, imun meningkat? Gunakan BANTAL KESEHATAN MEMORY'
     content: >
       Kami menawarkan produk BANTAL KESEHATAN MEMORY dengan busa anti kempes,
       Bergaransi sampai dengan 2 tahun jika kempes, Harga terjangkau, Bebas
