@@ -8,15 +8,23 @@ sections:
       Anda ingin tidurnya berkualitas sekaligus meningkatkan imunitas gunakan
       BANTAL KESEHATAN MEMORY
     content: |
-      Kami menawarkan produk BANTAL KESEHATAN MEMORY dengan busa anti kempes
+      *   Kami menawarkan produk BANTAL KESEHATAN MEMORY dengan busa anti kempes
 
-      Bergaransi sampai dengan 2 tahun jika kempes
+      <!---->
 
-      Harga terjangkau
+      *   Bergaransi sampai dengan 2 tahun jika kempes
 
-      Bebas ongkir untuk area JABODETABEK
+      <!---->
 
-      Bantal Memory di produksi dengan bahan dan jaminan kualitas terbaik
+      *   Harga terjangkau
+
+      <!---->
+
+      *   Bebas ongkir untuk area JABODETABEK
+
+      <!---->
+
+      *   Bantal Memory di produksi dengan bahan dan jaminan kualitas terbaik
     actions:
       - label: Let's talk
         url: /contact
