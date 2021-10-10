@@ -85,7 +85,7 @@ sections:
         style: button
 seo:
   title: Bantal kontur kesehatan
-  description: The preview of the Exto theme
+  description: Bantal Busa Memory Foam Bantal Kesehatan Bantal Kontur Murah Harga Grosir
   extra:
     - name: 'og:type'
       value: website
